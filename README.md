@@ -5,6 +5,9 @@ A GUI tool for converting PIXIE parameters into the standard SMPL-X format for B
 ## 🎯 Overview
 
 This tool converts PIXIE `*_param.pkl` files into standard SMPL-X `.pkl` files that can be used directly with the Blender SMPL-X add-on. The converter fixes the well-known PIXIE “headstand” orientation by applying an intelligent root rotation.
+<p align="center">
+  <img src="assets/GUI.png" width="720" alt="PIXIE → SMPL-X Converter GUI"/>
+</p>
 
 ### ✨ Features
 
