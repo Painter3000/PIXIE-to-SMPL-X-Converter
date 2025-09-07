@@ -1,0 +1,9 @@
+# to install this requirements:
+#`pip install -r requirements.txt`
+
+numpy
+scipy
+tk
+pickle5    # optional
+mathutils  # optional
+
